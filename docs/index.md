@@ -10,7 +10,7 @@ description: Description of this page
 
 <!-- https://v2.vuepress.vuejs.org/reference/frontmatter.html -->
 
-# Hola mundillin
+# Hola mundillinO
 Sepamos que esto es una librería tipo SSG (static site generators) que puede generar html a partir de markdown. Además por ser de vue soporta componentes de vue enteros con css y js si queremos en medio de los archivitos estos.
 
 ## Comienzo
