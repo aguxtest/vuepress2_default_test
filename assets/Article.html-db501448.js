@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1354b73c","path":"/Article.html","title":"My first article","lang":"ES","frontmatter":{"title":"My first article","description":"Basic intro to vuepress","author":"Preetish HS","type":"article"},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"Article.md"}');export{t as data};
